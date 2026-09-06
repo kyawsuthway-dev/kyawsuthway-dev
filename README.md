@@ -24,7 +24,7 @@ Holds a **B.Sc (Hons) in Computing** from the University of Greenwich (2024), pl
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kyawsuthway-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" width="100%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=kyawsuthway-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" width="100%" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyawsuthway-dev&theme=tokyonight&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" width="100%" alt="Streak Stats" />
 
@@ -42,14 +42,6 @@ Holds a **B.Sc (Hons) in Computing** from the University of Greenwich (2024), pl
 
 <br>
 
-### 📊 Most Used Languages
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawsuthway-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<br>
-
 ### 🔗 Connect With Me
 
 <p align="center">
@@ -63,12 +55,6 @@ Holds a **B.Sc (Hons) in Computing** from the University of Greenwich (2024), pl
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyawsuthway-dev&theme=tokyo-night&hide_border=true&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff" width="100%" alt="Activity Graph" />
-</div>
 
 <br>
 
