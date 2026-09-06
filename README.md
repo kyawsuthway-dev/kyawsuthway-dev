@@ -1,55 +1,79 @@
-Hi 👋 My name is Kyaw Su Thway
-==============================
+<div align="center">
 
-Backend Developer
------------------
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kyaw+Su+Thway;Senior+Web+Developer;PHP+%7C+Laravel+%7C+NodeJS+%7C+NestJS;Building+AI%2FRAG-powered+backends" alt="Typing SVG" />
 
-Passionate and accomplished senior web developer with a stellar track record of over 5 years in the industry. Proficient in an extensive array of cutting-edge technologies including PHP, Laravel, NodeJS, NestJS, Docker, Postgres, MySQL, AzureSQL, Azure Functions, and adept at leveraging version control tools like GitHub and AzureDevOps. Recognized for a tenacious problem-solving approach, exceptional communication skills, and a collaborative spirit that fuels outstanding team performance.
+</div>
 
-Educationally, I hold a Diploma in IT and a Level 5 Diploma in Computing from NCC Education, underscoring a solid foundation in technical expertise. Furthermore, I am currently in the final year of pursuing a Bachelor of Science in Computing, where I continue to sharpen my skills and stay abreast of the latest industry trends.
+<br>
 
-* 🌍  I'm based in Yangon, Myanmar
-* ✉️  You can contact me at [kyawsuthway.dev@gmail.com](mailto:kyawsuthway.dev@gmail.com)
-* 🧠  I'm learning TypeScript, NestJS And Microservices
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### Skills
+### 👋 About Me
 
+Senior web developer with **7+ years** of experience, skilled in PHP, Laravel, Inertia.js, React, NodeJS, NestJS, Python, Docker, Postgres, MySQL, AzureSQL, and Azure Functions. I build third-party API and payment integrations (Stripe, 2C2P) and AI/RAG-based backends powered by Python/Langchain. Known for strong problem-solving, clear communication, and collaborative teamwork.
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+Holds a **B.Sc (Hons) in Computing** from the University of Greenwich (2024), plus a Level 5 Diploma in Computing and a Diploma in IT from NCC Education.
+
+- 🌍 Based in **Chiang Mai, Thailand**
+- 💼 Backend Developer at **Buzzwoo Asia** — building Laravel/Inertia backoffice systems and a RAG-based SaaS platform
+- 🧠 Currently deepening my skills in **Retrieval-Augmented Generation (RAG)** and Python/Langchain
+- ✉️ Reach me at **kyawsuthway.dev@gmail.com**
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kyawsuthway-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff" width="100%" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyawsuthway-dev&theme=tokyonight&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" width="100%" alt="Streak Stats" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,express,nestjs,react,python,html,css,mysql,postgres,docker,azure,digitalocean,linux,git,github&theme=dark" />
 </p>
 
+<br>
 
-### Socials
+### 📊 Most Used Languages
 
-<p align="left"> 
-  <a href="https://www.github.com/kyawsuthway-dev" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.linkedin.com/in/kyaw-su-thway-dev" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.stackoverflow.com/users/9888901/kyaw-su-thway" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawsuthway-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" alt="Top Languages" />
+</div>
+
+<br>
+
+### 🔗 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kyaw-su-thway-dev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kyawsuthway.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.github.com/kyawsuthway-dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
-### Badges
+<br>
 
-<b>My GitHub Stats</b>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyawsuthway-dev&theme=tokyo-night&hide_border=true&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff" width="100%" alt="Activity Graph" />
+</div>
 
-<a href="http://www.github.com/kyawsuthway-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kyawsuthway-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br>
 
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=kyawsuthway-dev&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
